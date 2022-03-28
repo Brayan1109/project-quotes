@@ -1,11 +1,3 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
 # Aplicacion de citas
 
 Esta aplicación consiste en mostrar en pantalla un cita y su respectivo autor, que son seleccionados de un archivo en formato .json ubicado en la capeta 'data'.
